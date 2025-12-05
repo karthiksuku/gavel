@@ -53,9 +53,6 @@ export function Footer() {
             Gavel provides AI-generated legal information, not legal advice.
             Always verify with official sources and consult a qualified legal professional.
           </p>
-          <p className="mt-2 text-gavel-500">
-            &copy; {new Date().getFullYear()} Oracle AI-ANZ Demo Platform
-          </p>
         </div>
       </div>
     </footer>
