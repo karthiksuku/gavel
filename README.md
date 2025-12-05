@@ -69,4 +69,4 @@ cd frontend && npm run build
 
 ## License
 
-Proprietary - Oracle AI-ANZ Demo Platform
+MIT License
